@@ -3,7 +3,7 @@ import cv2
 import numpy as np
 from PIL import Image
 
-recognizer=cv2.face.createLBPHFaceRecognizer();
+recognizer=cv2.face.LBPHFaceRecognizer_create();
 path='dataSet'
 
 def getImagesWithID(path):
