@@ -1,0 +1,22 @@
+{
+  "name": "Criminal-Recognition-System",
+  "version": "1.0.0",
+  "description": "This Can Be Used To Recognise Criminals",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/lambocrypt/Criminal-Detection-System.git",
+  "keywords": [
+    "OpenCV",
+    "Recognition",
+    "Criminal",
+    "Python2",
+    "Criminal-Recognition-System"
+  ],
+  "author": "lambocrypt",
+  "license": "",
+  "devDependencies": {
+    "electron": "^2.0.0"
+  }
+}
